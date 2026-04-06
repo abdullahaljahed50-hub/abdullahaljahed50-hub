@@ -8,8 +8,8 @@
 - 🔭 Currently learning & building in **AI Automation (n8n, workflows, agents)**
 - 💻 Skilled in **HTML, CSS, JavaScript**
 - 🌐 Experienced with **WordPress & Elementor**
-- 🎯 Goal: Become a **world-class AI Automation Engineer**
-- 📍 Based in Bangladesh
+- 🎯 Goal: Become a **World-Class AI Automation Engineer**
+- 📍 Bangladesh
 
 ---
 
@@ -26,14 +26,10 @@
 </p>
 
 ### 🤖 AI & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-- n8n Automation
-- AI Agents (Workflow-based)
-- API Integration
-- Prompt Engineering
+- n8n Automation  
+- AI Agents  
+- API Integration  
+- Prompt Engineering  
 
 ---
 
@@ -41,28 +37,24 @@
 
 ✔ Build responsive websites  
 ✔ Create AI automation workflows  
-✔ Develop no-code/low-code systems  
 ✔ Automate business processes  
-✔ Integrate APIs & tools  
-
----
-
-## 📌 Current Focus
-
-- 🔥 Building AI agents using n8n  
-- ⚡ Automating real-world workflows  
-- 📈 Improving JavaScript & backend logic  
+✔ Build no-code/low-code systems  
+✔ API integrations  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahaljahed50-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahaljahed50-hub&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaljahed50-hub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,11 +63,11 @@
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:abdullahalzahed45@gmail.com">Email</a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don't just learn tech — I build systems that **save time & make money** 💰
+> I build automation that saves time and creates impact 🚀
