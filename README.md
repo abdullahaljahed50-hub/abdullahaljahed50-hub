@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdullah%20Al%20Jahed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20WordPress%20Expert&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdullah%20Al%20Jahed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20WordPress%20Expert%20%7C%20Vibe%20Coding%20Specialist&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+AI+Agents+%26+Automation+Workflows;⚡+Full-Stack+Web+Developer;🌐+WordPress+%26+Elementor+Expert;🔗+LangChain+%7C+LangFlow+%7C+n8n+%7C+Make+%7C+Zapier;🚀+Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+AI+Agents+%26+Automation+Workflows;⚡+Full-Stack+Web+Developer;🌐+WordPress+%26+Elementor+Expert;🔗+LangChain+%7C+LangFlow+%7C+n8n+%7C+Make+%7C+Zapier;🎵+Vibe+Coding+Specialist;🚀+Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,7 +26,7 @@
 ```yaml
 Name        : Abdullah Al Jahed
 Location    : 🇧🇩 Bangladesh
-Role        : AI Automation Engineer · Full-Stack Developer · WordPress Expert
+Role        : AI Automation Engineer · Full-Stack Developer · WordPress Expert · Vibe Coding Specialist
 Focus       : Building Intelligent Systems That Work While You Sleep
 Goal        : World-Class AI Automation Engineer
 Available   : Open for Freelance & Collaboration
@@ -133,6 +133,32 @@ Available   : Open for Freelance & Collaboration
 </details>
 
 <details open>
+<summary><b>🎵 Vibe Coding</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-4F46E5?style=for-the-badge&logo=codeium&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
+| Tool / Skill | Proficiency | Use Case |
+|---|---|---|
+| **Cursor IDE** | ████████████ Expert | AI-native coding, codebase chat, inline edits |
+| **GitHub Copilot** | ████████████ Expert | Autocomplete, test gen, PR summaries |
+| **Claude (Anthropic)** | ████████████ Expert | Architecture planning, complex refactors, code review |
+| **v0 by Vercel** | ████████░░░░ Advanced | Prompt-to-UI component generation |
+| **Bolt.new** | ████████░░░░ Advanced | Full-stack app scaffolding from natural language |
+| **Windsurf** | ██████░░░░░░ Learning | Agentic coding flows, multi-file edits |
+| **Prompt-to-Code** | ████████████ Expert | Translating ideas into working code via AI prompts |
+| **Flow-State Dev** | ████████████ Expert | Rapid iteration, intuition-driven architecture |
+
+</details>
+
+<details open>
 <summary><b>🔧 Tools & DevOps</b></summary>
 <br/>
 
@@ -191,6 +217,18 @@ Eliminate repetitive tasks through smart workflows — email automation, data sy
 
 </td>
 </tr>
+<tr>
+<td width="33%" align="center">
+
+### 🎵 Vibe Coding
+Building apps with intuition-driven, flow-state development — using AI pair-programming tools like Cursor, Copilot & Claude to ship fast, stay in the zone, and turn vibes into working products
+
+</td>
+<td width="33%" align="center">
+</td>
+<td width="33%" align="center">
+</td>
+</tr>
 </table>
 
 ---
@@ -238,10 +276,12 @@ graph LR
     B --> C[🤖 AI Agents]
     C --> D[⚡ n8n Complex Workflows]
     D --> E[🌐 Full-Stack React + Next.js]
-    E --> F[☁️ Cloud Deployment]
+    E --> F2[🎵 Vibe Coding Mastery]
+    F2 --> F[☁️ Cloud Deployment]
     F --> G[🚀 World-Class AI Engineer]
 
     style A fill:#7c3aed,color:#fff
+    style F2 fill:#7c3aed,color:#fff
     style G fill:#059669,color:#fff
 ```
 
@@ -251,6 +291,7 @@ graph LR
 - [ ] 🧠 Ship 3 LangChain-powered SaaS tools
 - [ ] 🌍 Help 50+ clients automate their business workflows
 - [ ] 📦 Publish 5 open-source automation templates
+- [ ] 🎵 Ship 5+ projects built purely in vibe coding flow-state
 
 ---
 
