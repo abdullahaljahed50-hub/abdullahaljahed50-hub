@@ -42,7 +42,16 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 <div align="center">
 
+<details open>
+<summary><b>💻 Frontend Technologies</b></summary>
+<br/>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10&theme=dark" />
+</p>
+
+</details>
+</div>
 | Technology | Proficiency | Use Case |
 |---|---|---|
 | **HTML5** | ████████████ Expert | Semantic markup, accessibility, SEO structure |
@@ -55,6 +64,7 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 </details>
 
+</div>
 <details open>
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br/>
