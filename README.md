@@ -22,7 +22,7 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=abdullahaljahed50-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true"/>
 
-### 👋 &nbsp; Hey, I'm Abdullah
+### 👋 &nbsp; Hey, I'm Abdullah Al Jahed
 
 AI Automation Engineer from 🇧🇩 Bangladesh building intelligent systems that work 24/7.
 
