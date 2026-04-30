@@ -42,107 +42,184 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 <div align="center">
 
-## 🤖 &nbsp; AI · Automation · LLMs
 
-![n8n](https://img.shields.io/badge/n8n-Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-Expert-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-Expert-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-Expert-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-Expert-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+| Technology | Proficiency | Use Case |
+|---|---|---|
+| **HTML5** | ████████████ Expert | Semantic markup, accessibility, SEO structure |
+| **CSS3** | ████████████ Expert | Animations, Grid, Flexbox, custom properties |
+| **JavaScript (ES6+)** | ██████████░░ Advanced | DOM, async/await, APIs, modern JS patterns |
+| **TypeScript** | ████████░░░░ Intermediate | Type-safe apps, interfaces, generics |
+| **React.js** | ████████░░░░ Intermediate | Hooks, context, component architecture |
+| **Next.js** | ██████░░░░░░ Learning | SSR, SSG, App Router |
+| **Tailwind CSS** | ████████████ Expert | Utility-first rapid UI building |
 
-![LangChain](https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangFlow](https://img.shields.io/badge/LangFlow-Expert-4F46E5?style=for-the-badge&logo=python&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Expert-7c3aed?style=for-the-badge&logo=probot&logoColor=white)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-Expert-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-Expert-0ea5e9?style=for-the-badge&logo=postman&logoColor=white)
+</details>
 
-</div>
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase,mysql,supabase&perline=10&theme=dark" />
+</p>
+
+| Technology | Proficiency | Use Case |
+|---|---|---|
+| **Python** | ████████░░░░ Intermediate | AI scripting, automation, data processing |
+| **Node.js** | ██████░░░░░░ Learning | REST APIs, server-side logic |
+| **MongoDB** | ██████░░░░░░ Learning | NoSQL, document-based data models |
+| **Firebase** | ████████░░░░ Intermediate | Auth, Firestore, hosting, real-time DB |
+| **MySQL** | ██████░░░░░░ Basic | Relational databases, queries |
+
+</details>
+
+<details open>
+<summary><b>🤖 AI, Automation & Workflow Tools</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangFlow-4F46E5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+| Tool | Proficiency | Use Case |
+|---|---|---|
+| **n8n** | ████████████ Expert | Complex multi-step workflow automation |
+| **Make** | ████████░░░░ Advanced | Visual automation, scenario building |
+| **Zapier** | ████████░░░░ Advanced | SaaS app integrations, trigger-action flows |
+| **LangChain** | ██████░░░░░░ Learning | LLM chains, agents, RAG pipelines |
+| **LangFlow** | ██████░░░░░░ Learning | Visual LLM flow builder |
+| **AI Agents** | ████████░░░░ Expert | Autonomous task agents, multi-agent systems |
+| **Prompt Engineering** | ████████████ Expert | Optimizing LLM outputs, chain-of-thought |
+| **API Integration** | ████████████ Expert | REST APIs, webhooks, OAuth flows |
+
+</details>
+
+<details open>
+<summary><b>🌐 WordPress Ecosystem</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACF-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+</p>
+
+| Skill | Proficiency | Details |
+|---|---|---|
+| **WordPress Theme Development** | ████████████ Expert | Custom themes from scratch, child themes, theme.json |
+| **WordPress Plugin Development** | ████████░░░░ Advanced | Custom plugins, hooks, filters, shortcodes |
+| **Elementor Pro** | ████████████ Expert | Dynamic content, custom widgets, global styles |
+| **WooCommerce** | ████████░░░░ Advanced | E-commerce customization, payment gateways |
+| **ACF (Advanced Custom Fields)** | ████████████ Expert | Custom field groups, flexible content |
+| **PHP** | ████████░░░░Expert | WordPress backend, custom functions |
+
+</details>
+
+<details open>
+<summary><b>🎵 Vibe Coding</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-4F46E5?style=for-the-badge&logo=codeium&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
+| Tool / Skill | Proficiency | Use Case |
+|---|---|---|
+| **Cursor IDE** | ████████████ Expert | AI-native coding, codebase chat, inline edits |
+| **GitHub Copilot** | ████████████ Expert | Autocomplete, test gen, PR summaries |
+| **Claude (Anthropic)** | ████████████ Expert | Architecture planning, complex refactors, code review |
+| **v0 by Vercel** | ████████░░░░ Advanced | Prompt-to-UI component generation |
+| **Bolt.new** | ████████░░░░ Advanced | Full-stack app scaffolding from natural language |
+| **Windsurf** | ██████░░░░░░ Learning | Agentic coding flows, multi-file edits |
+| **Prompt-to-Code** | ████████████ Expert | Translating ideas into working code via AI prompts |
+| **Flow-State Dev** | ████████████ Expert | Rapid iteration, intuition-driven architecture |
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & DevOps</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,linux,docker&perline=10&theme=dark" />
+</p>
+
+</details>
 
 ---
 
 <div align="center">
 
-## 🎨 &nbsp; Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,vite&theme=dark&perline=10" />
-
-<br/><br/>
-
-## ⚙️ &nbsp; Backend · Database · Cloud
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,mysql,supabase,vercel,netlify,docker,git&theme=dark&perline=10" />
-
-<br/><br/>
-
-## 🌐 &nbsp; WordPress Ecosystem
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,mysql&theme=dark" />
-&nbsp;&nbsp;
-![Elementor](https://img.shields.io/badge/Elementor_Pro-Expert-92003B?style=flat-square&logo=elementor&logoColor=white)
-&nbsp;
-![WooCommerce](https://img.shields.io/badge/WooCommerce-Expert-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-&nbsp;
-![ACF](https://img.shields.io/badge/ACF_Pro-Expert-00A0D2?style=flat-square&logo=wordpress&logoColor=white)
-
-<br/><br/>
-
-## 🎵 &nbsp; Vibe Coding
-
-![Cursor](https://img.shields.io/badge/Cursor-Expert-000000?style=flat-square&logo=cursor&logoColor=white)
-&nbsp;
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-Expert-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-&nbsp;
-![Claude](https://img.shields.io/badge/Claude-Expert-191919?style=flat-square&logo=anthropic&logoColor=white)
-&nbsp;
-![v0](https://img.shields.io/badge/v0_by_Vercel-Advanced-000000?style=flat-square&logo=vercel&logoColor=white)
-&nbsp;
-![Bolt](https://img.shields.io/badge/Bolt.new-Advanced-F59E0B?style=flat-square&logo=lightning&logoColor=black)
-&nbsp;
-![Windsurf](https://img.shields.io/badge/Windsurf-Growing-4F46E5?style=flat-square&logo=codeium&logoColor=white)
+## 🚀 &nbsp; WHAT I BUILD
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 &nbsp; What I Build
-
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
-<br/><b>AI Automation Systems</b>
-<br/><sub>End-to-end workflows with n8n, Make & Zapier connected to GPT-4 & Claude — from lead gen bots to full business process automation.</sub>
+<td width="33%" align="center">
+
+### 🤖 AI Automation Systems
+Build end-to-end intelligent workflows using n8n, Make, Zapier connected to GPT/Claude APIs — from lead gen bots to full business process automation
+
 </td>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/brain.png"/>
-<br/><b>LLM-Powered Apps</b>
-<br/><sub>RAG pipelines, AI agents & LangChain integrations. Raw AI models → production-grade tools that solve real business problems.</sub>
+<td width="33%" align="center">
+
+### 🌐 Web Applications
+Full-stack responsive websites and web apps using React, Next.js, Tailwind CSS — pixel-perfect and performance-optimized
+
 </td>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/code.png"/>
-<br/><b>Full-Stack Web Apps</b>
-<br/><sub>React, Next.js & Tailwind CSS. Pixel-perfect, performance-optimized, and built to scale from day one.</sub>
+<td width="33%" align="center">
+
+### 🔌 WordPress Solutions
+Custom theme & plugin development, Elementor builds, WooCommerce stores — scalable, secure, and maintainable
+
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/wordpress.png"/>
-<br/><b>WordPress Solutions</b>
-<br/><sub>Custom themes, plugins, Elementor builds & WooCommerce stores. Scalable, secure & maintainable.</sub>
+<td width="33%" align="center">
+
+### 🧠 LLM-Powered Apps
+RAG pipelines, AI agents, LangChain/LangFlow integrations — turning raw AI models into production-grade tools
+
 </td>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/api.png"/>
-<br/><b>API Integrations</b>
-<br/><sub>Connect any SaaS stack — CRMs, ERPs, payment systems & communication tools. If it has an API, I'll connect it.</sub>
+<td width="33%" align="center">
+
+### ⚡ API Integrations
+Connect any SaaS tool together — CRMs, ERPs, communication platforms, payment systems, databases
+
 </td>
-<td align="center" width="33%">
-<img width="48" src="https://img.icons8.com/fluency/48/process.png"/>
-<br/><b>Business Automation</b>
-<br/><sub>Eliminate repetitive tasks: email flows, data sync, smart reporting & real-time CRM automation.</sub>
+<td width="33%" align="center">
+
+### 📊 Business Automation
+Eliminate repetitive tasks through smart workflows — email automation, data sync, reporting, notifications
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🎵 Vibe Coding
+Building apps with intuition-driven, flow-state development — using AI pair-programming tools like Cursor, Copilot & Claude to ship fast, stay in the zone, and turn vibes into working products
+
+</td>
+<td width="33%" align="center">
+</td>
+<td width="33%" align="center">
 </td>
 </tr>
 </table>
@@ -151,17 +228,20 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 <div align="center">
 
-## 📊 &nbsp; GitHub Analytics
+## 📊 &nbsp; GITHUB ANALYTICS
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaljahed50-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahaljahed50-hub&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahaljahed50-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaljahed50-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahaljahed50-hub&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahaljahed50-hub&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area_color=3b0f8c&area=true&hide_border=true&radius=6" width="88%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahaljahed50-hub&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -169,9 +249,9 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 <div align="center">
 
-## 🏆 &nbsp; Achievements
+## 🏆 &nbsp; GITHUB TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahaljahed50-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="92%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahaljahed50-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="90%" />
 
 </div>
 
@@ -179,26 +259,49 @@ I design **end-to-end automation pipelines**, **LLM-powered applications**, and 
 
 <div align="center">
 
-## 🗺️ &nbsp; 2026 Roadmap
+## 🎯 &nbsp; CURRENT FOCUS & ROADMAP
+
+</div>
 
 ```mermaid
-flowchart LR
-    A(🧠 Prompt\nMastery) --> B(🔗 LangChain\nAgents)
-    B --> C(⚡ n8n\nAt Scale)
-    C --> D(⚛️ Next.js\nFull-Stack)
-    D --> E(☁️ Cloud\nDeploy)
-    E --> F(🚀 World-Class\nAI Engineer)
+graph LR
+    A[🧠 Prompt Engineering] --> B[🔗 LangChain & LangFlow]
+    B --> C[🤖 AI Agents]
+    C --> D[⚡ n8n Complex Workflows]
+    D --> E[🌐 Full-Stack React + Next.js]
+    E --> F2[🎵 Vibe Coding Mastery]
+    F2 --> F[☁️ Cloud Deployment]
+    F --> G[🚀 World-Class AI Engineer]
 
-    style A fill:#3b0f8c,color:#fff,stroke:none
-    style B fill:#4c1d95,color:#fff,stroke:none
-    style C fill:#5b21b6,color:#fff,stroke:none
-    style D fill:#6d28d9,color:#fff,stroke:none
-    style E fill:#7c3aed,color:#fff,stroke:none
-    style F fill:#059669,color:#fff,stroke:none
+    style A fill:#7c3aed,color:#fff
+    style F2 fill:#7c3aed,color:#fff
+    style G fill:#059669,color:#fff
 ```
 
-**`[ ]`** 100+ production AI systems &nbsp;·&nbsp; **`[ ]`** Master React & Next.js &nbsp;·&nbsp; **`[ ]`** Ship 3 LangChain SaaS tools  
-**`[ ]`** Help 50+ clients automate &nbsp;·&nbsp; **`[ ]`** 5 open-source templates &nbsp;·&nbsp; **`[ ]`** 5 vibe-coded products
+**2026 Goals:**
+- [ ] 🤖 Build 100+ production AI automation systems
+- [ ] ⚛️ Master React & Next.js ecosystem
+- [ ] 🧠 Ship 3 LangChain-powered SaaS tools
+- [ ] 🌍 Help 50+ clients automate their business workflows
+- [ ] 📦 Publish 5 open-source automation templates
+- [ ] 🎵 Ship 5+ projects built purely in vibe coding flow-state
+
+---
+
+<div align="center">
+
+## 🤝 &nbsp; LET'S CONNECT & BUILD TOGETHER
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalzahed45@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahaljahed50-hub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_PROFILE)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/YOUR_PROFILE)
+
+<br/>
 
 </div>
 
@@ -206,34 +309,24 @@ flowchart LR
 
 <div align="center">
 
-## 🤝 &nbsp; Let's Build Something Great
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalzahed45@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-<br/>
-
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_PROFILE)
-&nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-Order%20Now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/YOUR_PROFILE)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahaljahed50-hub)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-<br/><br/>
+
+
+
+
+
+
+
+make the all proficiency level advanced or expert
+
+
+<sub>⚡ Built with passion by Abdullah Al Jahed · Bangladesh 🇧🇩 · Automating the future, one workflow at a time</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:3b0f8c,100:0d0221&height=130&section=footer"/>
-
-<div align="center">
-  <sub>⚡ <b>Abdullah Al Jahed</b> · 🇧🇩 Bangladesh · Building the future with AI, one workflow at a time</sub>
 </div>
