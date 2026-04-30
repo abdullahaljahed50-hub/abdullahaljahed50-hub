@@ -99,11 +99,11 @@ Available   : Open for Freelance & Collaboration
 | Tool | Proficiency | Use Case |
 |---|---|---|
 | **n8n** | ████████████ Expert | Complex multi-step workflow automation |
-| **Make (Integromat)** | ████████░░░░ Advanced | Visual automation, scenario building |
+| **Make** | ████████░░░░ Advanced | Visual automation, scenario building |
 | **Zapier** | ████████░░░░ Advanced | SaaS app integrations, trigger-action flows |
 | **LangChain** | ██████░░░░░░ Learning | LLM chains, agents, RAG pipelines |
 | **LangFlow** | ██████░░░░░░ Learning | Visual LLM flow builder |
-| **AI Agents** | ████████░░░░ Intermediate | Autonomous task agents, multi-agent systems |
+| **AI Agents** | ████████░░░░ Expert | Autonomous task agents, multi-agent systems |
 | **Prompt Engineering** | ████████████ Expert | Optimizing LLM outputs, chain-of-thought |
 | **API Integration** | ████████████ Expert | REST APIs, webhooks, OAuth flows |
 
@@ -128,7 +128,7 @@ Available   : Open for Freelance & Collaboration
 | **Elementor Pro** | ████████████ Expert | Dynamic content, custom widgets, global styles |
 | **WooCommerce** | ████████░░░░ Advanced | E-commerce customization, payment gateways |
 | **ACF (Advanced Custom Fields)** | ████████████ Expert | Custom field groups, flexible content |
-| **PHP** | ████████░░░░ Intermediate | WordPress backend, custom functions |
+| **PHP** | ████████░░░░Expert | WordPress backend, custom functions |
 
 </details>
 
